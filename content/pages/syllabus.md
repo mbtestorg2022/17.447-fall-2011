@@ -33,18 +33,159 @@ For all students, the requirements include a choice of one of the following:
 Calendar
 --------
 
-| WEEK # | TOPICS |
-| --- | --- |
-| 1 | Introduction—Cyberspace and International Relations |
-| 2 |  {{< br >}}{{< br >}} Evolution of International Relations {{< br >}}{{< br >}} Structure, Process, and Levels of Analysis {{< br >}}{{< br >}}  |
-| 3 |  {{< br >}}{{< br >}} The Construction of Cyberspace {{< br >}}{{< br >}} Concepts and Complexities {{< br >}}{{< br >}}  |
-| 4 | Integrating Cyberspace and International Relations |
-| 5 | Globalization and Transformation |
-| 6 | Contending Theories of International Relations |
-| 7 |  {{< br >}}{{< br >}} Expansion of Cyber Access {{< br >}}{{< br >}} Evolving Parameters & Power Potentials {{< br >}}{{< br >}}  |
-| 8 | Cyber Conflicts and Threats to Security—Types & Cases |
-| 9 | Cyber Cooperation and Modes of Collaboration—Types & Cases |
-| 10 | Comparative Analysis and Cases in Context |
-| 11 |  {{< br >}}{{< br >}} International Institutional Challenges Re-­Visited—Sovereign {{< br >}}{{< br >}} States, Private Order, ad hoc Arrangements {{< br >}}{{< br >}}  |
-| 12 | Global Agenda—Emergent Accord & New Discord |
-| 13 | Alternative Futures—Vision, Principles, Trajectories
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+WEEK #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction—Cyberspace and International Relations
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Evolution of International Relations
+
+Structure, Process, and Levels of Analysis
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+The Construction of Cyberspace
+
+Concepts and Complexities
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Integrating Cyberspace and International Relations
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Globalization and Transformation
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Contending Theories of International Relations
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Expansion of Cyber Access
+
+Evolving Parameters & Power Potentials
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Cyber Conflicts and Threats to Security—Types & Cases
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Cyber Cooperation and Modes of Collaboration—Types & Cases
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Comparative Analysis and Cases in Context
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+International Institutional Challenges Re-­Visited—Sovereign
+
+States, Private Order, ad hoc Arrangements
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Global Agenda—Emergent Accord & New Discord
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Alternative Futures—Vision, Principles, Trajectories
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
