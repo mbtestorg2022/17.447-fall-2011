@@ -96,7 +96,7 @@ Lecture Slides for Week #3 ([PDF - 2.9MB]({{< baseurl >}}/resources/mit17_447f11
 
 Clark, David D. _An Insider's Guide to the Internet_. MIT Computer Science and Artificial Intelligence Laboratory, Version 2.0. Massachusetts Institute of Technology, 2004. ([PDF](http://groups.csail.mit.edu/ana/Publications/PubPDFs/An-Insiders-Guide-to-the-Internet.pdf))
 
-Clark, David D., and Marjory S. Blumenthal. "The End to End Argument and Application Design: The Role of Trust." Internal Draft MIT CSAIL, 2007. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://groups.csail.mit.edu/ana/Publications/PubPDFs/End%202%20end%20argument%20and%20application%20design%20final%20TPRC2007.pdf))
+Clark, David D., and Marjory S. Blumenthal. "The End to End Argument and Application Design: The Role of Trust." Internal Draft MIT CSAIL, 2007. ([PDF](http://groups.csail.mit.edu/ana/Publications/PubPDFs/End%202%20end%20argument%20and%20application%20design%20final%20TPRC2007.pdf))
 
 Kobrin, S. J. "[Territoriality and the Governance of Cyberspace](http://www.jstor.org/stable/3069472)." _Journal of International Business Studies_ 32, no. 4 (2001): 687–704.
 
@@ -128,7 +128,7 @@ Lecture Slides for Week #4 ([PDF - 1.2MB]({{< baseurl >}}/resources/mit17_447f11
 
 ### Required
 
-Choucri, Nazli, and David D. Clark. _Cyberspace and International Relations: Toward an Integrated System_. Version 8-25 for internal ECIR review, August 2011. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif))
+Choucri, Nazli, and David D. Clark. _Cyberspace and International Relations: Toward an Integrated System_. Version 8-25 for internal ECIR review, August 2011. ()
 
 Clark, David D., John Wroclawski, et al. "[Tussle in Cyberspace: Defining Tomorrow's Internet](http://dx.doi.org/10.1109/TNET.2005.850224)." _IEEE/ACM Transactions on Networking_ 13, no. 3 (2005): 462–75.
 
@@ -138,7 +138,7 @@ Wingfield, Thomas C. "International Law and Information Operations." In _Cyberpo
 
 Benkler, Yochai. "[WikiLeaks and the PROTECT-IP Act: A New Public-Private Threat to the Internet Commons](http://dx.doi.org/10.1162/DAED_a_00121)." _Daedalus, MIT Press_ 140, no. 4 (2011): 154–64.
 
-Levchenko, K., Andreas Pitsillidis, et al. "Click Trajectories: End-to-End Analysis of the Spam Value Chain." _Proceedings of the IEEE Symposium on Security and Privacy_. Oakland, California, 2011, pp. 431–46. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 2.3MB](http://cseweb.ucsd.edu/~savage/papers/Oakland11.pdf))
+Levchenko, K., Andreas Pitsillidis, et al. "Click Trajectories: End-to-End Analysis of the Spam Value Chain." _Proceedings of the IEEE Symposium on Security and Privacy_. Oakland, California, 2011, pp. 431–46. ([PDF - 2.3MB](http://cseweb.ucsd.edu/~savage/papers/Oakland11.pdf))
 
 ### Recommended
 
@@ -220,7 +220,7 @@ Expansion of Cyber Access—Evolving Parameters and Power Potentials
 
 _Required reading related to Professor Madnick's lecture:_
 
-Madnick, Stuart, Xitong Li, and Nazli Choucri. "Experiences and Challenges with Using CERT Data to Analyze International Cyber Security." _Working Paper CISL#2009-13_, September 2009. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://web.mit.edu/smadnick/www/wp/2009-13.pdf))
+Madnick, Stuart, Xitong Li, and Nazli Choucri. "Experiences and Challenges with Using CERT Data to Analyze International Cyber Security." _Working Paper CISL#2009-13_, September 2009. ([PDF](http://web.mit.edu/smadnick/www/wp/2009-13.pdf))
 
 Anderson, Ross, and Tyler Moore. "[The Economics of Information Security](http://dx.doi.org/10.1126/science.1130992)." _Science_ 314, no. 5799 (2006): 610–3.
 
@@ -234,7 +234,7 @@ Lessig, L. "[The Zones of Cyberspace](http://dx.doi.org/10.2307/1229391)." _Stan
 
 _Recommended reading related to Professor Madnick's lecture:_
 
-Ferwerda, Jeremy, Nazli Choucri, and Stuart Madnick. "Institutional Foundations for Cyber Security: Current Responses and New Challenges." _Working Paper CISL#2009-03_, September 2010. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://web.mit.edu/smadnick/www/wp/2010-03.pdf))
+Ferwerda, Jeremy, Nazli Choucri, and Stuart Madnick. "Institutional Foundations for Cyber Security: Current Responses and New Challenges." _Working Paper CISL#2009-03_, September 2010. ([PDF](http://web.mit.edu/smadnick/www/wp/2010-03.pdf))
 
 Borgatti, Stephen P., Ajay Mehra, et al. "[Network Analysis in the Social Sciences](http://dx.doi.org/10.1126/science.1165821)." _Science_ 323, no. 5916 (2009): 892–5.
 
